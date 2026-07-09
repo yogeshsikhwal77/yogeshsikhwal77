@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 <!--
 **yogeshsikhwal77/yogeshsikhwal77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
