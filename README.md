@@ -125,24 +125,21 @@
 
 ## 🚧 Featured Projects
 
-<!-- Replace the details below with your real projects whenever you're ready -->
-
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| 🔹 Project One | One-line description of what it does | Python, ML | [repo link](#) |
-| 🔹 Project Two | One-line description of what it does | Next.js, PostgreSQL | [repo link](#) |
-| 🔹 Project Three | One-line description of what it does | C++ | [repo link](#) |
+| 🔹 **AlphaSieve** | Backtesting engine and ML classifier training/inference. | Python, Jupyter | [View Repo](https://github.com/yogeshsikhwal77/AlphaSieve) |
+| 🔹 **AutoDataCleaner** | Automated data cleaning pipeline. | Python, Pandas, Scikit-learn | [View Repo](https://github.com/yogeshsikhwal77/AutoDataCleaner) |
+| 🔹 **ICS-Project** | C programming project with file handling for students and teachers. | C | [View Repo](https://github.com/yogeshsikhwal77/ICS-Project) |
 
-<br/>
 
 ## 🌐 Connect with Me
 
 <!-- Replace # with your real links -->
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#">https://www.linkedin.com/in/yogesh-sikhwal-0198753b3<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:yogeshsikhwal77@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </div>
 
@@ -150,9 +147,9 @@
 
 ## ⚡ Fun Facts / Hobbies
 
-- 🏏 *(Add a hobby — sports, music, gaming, etc.)*
-- 📚 *(Add something you're currently reading or exploring)*
-- 🎯 *(Add a goal — hackathon, open source, internship, etc.)*
+- 🎮 When I'm not coding, you can usually find me unwinding with **video games** or 🎬 watching **movies**.
+- 📚 Currently diving deep into **NLP (Natural Language Processing)** to build smarter, context-aware AI applications.
+- 🎯 **Current Goal:** Land an internship as an AI/ML Engineer and contribute to open-source GenAI projects!
 
 <div align="center">
 
