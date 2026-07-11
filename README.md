@@ -20,7 +20,6 @@
 - 🤖 Now learning **GenAI, RAG & NLP** (LangChain, LlamaIndex, vector DBs, fine-tuning) — on the path to becoming an **AI Engineer**
 - 🌐 Build full-stack apps with **React, Next.js, Vite, Node.js, PHP** — hands-on with **HTML/CSS/JS, TypeScript, SQL**, and use AI to speed through the rest of the stack (not a full auto-build — I write and understand the core, AI fills in pieces)
 - 🏆 Competitive programming on **Codeforces**
-- ⚡ Fun fact: *(add something fun about yourself here!)*
 
 <br/>
 
@@ -127,20 +126,20 @@
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| 🔹 **AlphaSieve** | Backtesting engine and ML classifier training/inference. | Python, Jupyter | [View Repo](https://github.com/yogeshsikhwal77/AlphaSieve) |
-| 🔹 **AutoDataCleaner** | Automated data cleaning pipeline. | Python, Pandas, Scikit-learn | [View Repo](https://github.com/yogeshsikhwal77/AutoDataCleaner) |
+| 🔹 **AlphaSieve** | Backtesting engine and ML classifier training/inference. | Python ,Scikit-learn, streamlit, Jupyter , yfinance | [View Repo](https://github.com/yogeshsikhwal77/AlphaSieve) |
+| 🔹**AutoDataCleaner** | Automated data cleaning pipeline. | Python, Pandas, numpy  | [View Repo](https://github.com/yogeshsikhwal77/AutoDataCleaner) |
 | 🔹 **ICS-Project** | C programming project with file handling for students and teachers. | C | [View Repo](https://github.com/yogeshsikhwal77/ICS-Project) |
 
 
 ## 🌐 Connect with Me
 
 <!-- Replace # with your real links -->
-<div align="center">
-<a href="#">https://www.linkedin.com/in/yogesh-sikhwal-0198753b3<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:yogeshsikhwal77@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/yogesh-sikhwal-0198753b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+  <a href="https://x.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> 
+  <a href="mailto:yogeshsikhwal77@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a> 
 </div>
 
 <br/>
