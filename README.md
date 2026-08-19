@@ -20,7 +20,6 @@
 - ⚡ Covered **GenAI fundamentals + LangChain** end-to-end — now exploring **LangGraph** for multi-agent & stateful workflows
 - 🧮 Grinding **DSA in C++** alongside competitive programming
 - 🌐 Build full-stack apps with **React, Next.js, Vite, Node.js, PHP** — hands-on with **HTML/CSS/JS, TypeScript, SQL**, and use AI to speed through the rest of the stack (not a full auto-build — I write and understand the core, AI fills in pieces)
-- 🏆 Competitive programming on **Codeforces**
 
 <br/>
 
@@ -50,7 +49,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
-**🧬 GenAI / NLP — LangChain mastered, LangGraph in progress**
+**🧬 GenAI — LangChain mastered, LangGraph in progress**
 <p>
 <img src="https://img.shields.io/badge/LangChain-00FFA3?style=flat-square&logo=langchain&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
@@ -103,7 +102,6 @@
 </tr>
 </table>
 
-<sub align="center">💡 HTML/CSS/JS, TypeScript & SQL are hands-on core skills. Full-stack apps (Next.js/NestJS/Prisma) combine that core with AI-assisted code for the pieces still being learned.</sub>
 
 <br/>
 <br/>
