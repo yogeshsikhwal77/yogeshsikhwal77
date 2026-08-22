@@ -19,7 +19,7 @@
 - 🧠 Completed the **Python → Machine Learning → Deep Learning** path — project builds coming soon
 - ⚡ Covered **GenAI fundamentals + LangChain** end-to-end — now exploring **LangGraph** for multi-agent & stateful workflows
 - 🧮 Grinding **DSA in C++** alongside competitive programming
-- 🌐 Build full-stack apps with **React, Next.js, Vite, Node.js, PHP** — hands-on with **HTML/CSS/JS, TypeScript, SQL**, and use AI to speed through the rest of the stack (not a full auto-build — I write and understand the core, AI fills in pieces)
+- 🌐 Build full-stack apps with **React, Next.js, Vite, Node.js, PHP** — hands-on with **HTML/CSS/JS, TypeScript, SQL**
 
 <br/>
 
