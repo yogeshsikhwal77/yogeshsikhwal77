@@ -141,7 +141,7 @@
 
 ## ⚡ Fun Facts / Hobbies
 
-- 🎮 When I'm not coding, you can usually find me unwinding with **video games** or 🎬 watching **movies**.
+- 🎮 When I'm not coding, you can usually find me unwinding with **video games** or 🎬 watching **movies** and something find unusual.
 - 🧩 Currently deep in **LangGraph** and **DSA (C++)** — building agentic pipelines by day, solving problems by night.
 - 🎯 **Current Goal:** Land an internship as an AI/ML Engineer and contribute to open-source GenAI projects!
 
