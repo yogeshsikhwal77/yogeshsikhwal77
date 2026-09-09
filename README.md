@@ -113,7 +113,7 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yogeshsikhwal77&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshsikhwal77&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsikhwal77&theme=dracula&hide_border=true&background=0d1117"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yogeshsikhwal77)](https://git.io/streak-stats)
 
 </div>
 
