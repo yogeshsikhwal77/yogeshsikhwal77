@@ -122,8 +122,9 @@
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
+| 🔹 **nanoGPT** | End-to-end custom LLM pipeline featuring pretraining (15M/33M parameters), Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and a Dockerized inference API. | Python, PyTorch, FastAPI, Docker | [View Repo](https://github.com/yogeshsikhwal77/nanoGPT) |
 | 🔹 **SpectraFi** | Multi-modal RAG assistant that chats with financial PDFs — understands text, charts, and tables using Gemini vision + LangChain. | Python, LangChain, Streamlit, Gemini, ChromaDB | [View Repo](https://github.com/yogeshsikhwal77/SpectraFi) |
-| 🔹 **AutoDataCleaner** | Automated data cleaning pipeline. | Python, Pandas, numpy | [View Repo](https://github.com/yogeshsikhwal77/AutoDataCleaner) |
+| 🔹 **AutoDataCleaner** | Automated data cleaning pipeline. | Python, Pandas, NumPy | [View Repo](https://github.com/yogeshsikhwal77/AutoDataCleaner) |
 | 🔹 **ICS-Project** | C programming project with file handling for students and teachers. | C | [View Repo](https://github.com/yogeshsikhwal77/ICS-Project) |
 
 ## 🌐 Connect with Me
