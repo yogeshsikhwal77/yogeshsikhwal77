@@ -1,153 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFA3,100:00C2FF&height=200&section=header&text=Yogesh%20Sikhwal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%C2%B7%20GenAI%20%2B%20LangChain%20%2B%20LangGraph%20%C2%B7%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Yogesh Sikhwal, aspiring AI engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFA3&center=true&vCenter=true&width=650&lines=B.Tech+Chemical+Engineering+%40+IIT+Jodhpur;GenAI+%2B+LangChain+%E2%80%94+mastered%2C+now+learning+LangGraph;Sharpening+DSA+in+C%2B%2B+for+competitive+programming;Full-Stack+with+React%2C+Next.js+%26+more" alt="Typing SVG"/>
+<a href="https://github.com/yogeshsikhwal77">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FFA3&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%F0%9F%A4%96+Building+LLM+apps+%26+agentic+workflows;%F0%9F%A7%A0+Training+small+GPTs+from+scratch;%E2%9A%A1+LangChain+%E2%86%92+LangGraph+%E2%86%92+Multi-Agent+Systems;%F0%9F%8C%90+Shipping+full-stack+with+React+%26+Next.js;%F0%9F%A7%AE+Grinding+DSA+in+C%2B%2B+every+night" alt="typing"/>
+</a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/IIT_Jodhpur-B.Tech_ChemE-00C2FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Open_to-AI/ML_Internships-00FFA3?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Learning-LangGraph-FF4DC4?style=for-the-badge&labelColor=0D1117"/>
 <br/>
+<img src="https://komarev.com/ghpvc/?username=yogeshsikhwal77&style=for-the-badge&color=00FFA3&labelColor=0D1117&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/yogeshsikhwal77?style=for-the-badge&logo=github&color=FF4DC4&labelColor=0D1117"/>
 
-<img src="https://komarev.com/ghpvc/?username=yogeshsikhwal77&style=for-the-badge&color=00FFA3&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/yogeshsikhwal77?style=for-the-badge&color=00C2FF&labelColor=black"/>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/yogesh-sikhwal-0198753b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yogeshsikhwal77@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yogeshsikhwal77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-- 🎓 2nd year, **B.Tech Chemical Engineering**, **IIT Jodhpur**
-- 🧠 Completed the **Python → Machine Learning → Deep Learning** path — project builds coming soon
-- ⚡ Covered **GenAI fundamentals + LangChain** end-to-end — now exploring **LangGraph** for multi-agent & stateful workflows
-- 🧮 Grinding **DSA in C++** alongside competitive programming
-- 🌐 Build full-stack apps with **React, Next.js, Vite, Node.js, PHP** — hands-on with **HTML/CSS/JS, TypeScript, SQL**
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<table align="center">
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="60%" valign="top">
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-</p>
-<sub>🧮 Currently grinding: <b>DSA in C++</b> for competitive programming</sub>
-
-**ML / Deep Learning**
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</p>
-
-**🧬 GenAI — LangChain mastered, LangGraph in progress**
-<p>
-<img src="https://img.shields.io/badge/LangChain-00FFA3?style=flat-square&logo=langchain&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/RAG-Vector%20DBs-00C2FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
+```js
+const yogesh = {
+  college : "IIT Jodhpur · B.Tech Chemical Engineering (2nd yr)",
+  path    : "Python → ML → Deep Learning → GenAI → Agents",
+  building: ["RAG assistants", "LLM training pipelines", "full-stack apps"],
+  learning: ["LangGraph", "multi-agent systems"],
+  grinding: "DSA in C++ (competitive programming)",
+  goal    : "AI/ML internship + open-source GenAI",
+  fun     : ["video games 🎮", "weird movies 🎬"],
+};
+```
 
 </td>
-<td valign="top" width="50%">
+<td width="40%" align="center" valign="middle">
 
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-**Backend**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-</p>
-
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
-</p>
-
-**Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=yogeshsikhwal77&theme=onedark&no-frame=true&no-bg=true&column=2&row=2&margin-w=10&margin-h=10" alt="trophies"/>
 
 </td>
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<br/>
-<br/>
-
-## 📊 GitHub Stats
+## 🔥 Featured Projects
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=yogeshsikhwal77&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshsikhwal77&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yogeshsikhwal77)](https://git.io/streak-stats)
+<a href="https://github.com/yogeshsikhwal77/nanoGPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshsikhwal77&repo=nanoGPT&theme=radical&hide_border=true&bg_color=0d1117" alt="nanoGPT"/></a>
+<a href="https://github.com/yogeshsikhwal77/SpectraFi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshsikhwal77&repo=SpectraFi&theme=radical&hide_border=true&bg_color=0d1117" alt="SpectraFi"/></a>
+<br/>
+<a href="https://github.com/yogeshsikhwal77/AutoDataCleaner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshsikhwal77&repo=AutoDataCleaner&theme=radical&hide_border=true&bg_color=0d1117" alt="AutoDataCleaner"/></a>
+<a href="https://github.com/yogeshsikhwal77/ICS-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshsikhwal77&repo=ICS-Project&theme=radical&hide_border=true&bg_color=0d1117" alt="ICS-Project"/></a>
 
 </div>
 
-
-## 🚧 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| 🔹 **nanoGPT** | End-to-end custom LLM pipeline featuring pretraining (15M/33M parameters), Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and a Dockerized inference API. | Python, PyTorch, FastAPI, Docker | [View Repo](https://github.com/yogeshsikhwal77/nanoGPT) |
-| 🔹 **SpectraFi** | Multi-modal RAG assistant that chats with financial PDFs — understands text, charts, and tables using Gemini vision + LangChain. | Python, LangChain, Streamlit, Gemini, ChromaDB | [View Repo](https://github.com/yogeshsikhwal77/SpectraFi) |
-| 🔹 **AutoDataCleaner** | Automated data cleaning pipeline. | Python, Pandas, NumPy | [View Repo](https://github.com/yogeshsikhwal77/AutoDataCleaner) |
-| 🔹 **ICS-Project** | C programming project with file handling for students and teachers. | C | [View Repo](https://github.com/yogeshsikhwal77/ICS-Project) |
-
-## 🌐 Connect with Me
-
-<!-- Replace # with your real links -->
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/yogesh-sikhwal-0198753b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-  <!-- <a href="https://x.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>  -->
-  <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>  -->
-  <a href="mailto:yogeshsikhwal77@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> 
-  <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>  -->
-</div>
-
+<details>
+<summary><b>📖 Click for project details</b></summary>
 <br/>
 
-## ⚡ Fun Facts / Hobbies
+| Project | What it does | Stack |
+|---|---|---|
+| 🧠 **nanoGPT** | End-to-end custom LLM pipeline: pretraining (15M / 33M params), SFT, DPO, and a Dockerized inference API | `PyTorch` `FastAPI` `Docker` |
+| 📈 **SpectraFi** | Multi-modal RAG assistant that chats with financial PDFs and understands text, charts and tables via Gemini vision | `LangChain` `Gemini` `ChromaDB` `Streamlit` |
+| 🧹 **AutoDataCleaner** | Automated data-cleaning pipeline | `Pandas` `NumPy` |
+| 🗂️ **ICS-Project** | File-handling system for students and teachers | `C` |
 
-- 🎮 When I'm not coding, you can usually find me unwinding with **video games** or 🎬 watching **movies** and something find unusual.
-- 🧩 Currently deep in **LangGraph** and **DSA (C++)** — building agentic pipelines by day, solving problems by night.
-- 🎯 **Current Goal:** Land an internship as an AI/ML Engineer and contribute to open-source GenAI projects!
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:00FFA3,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,php&perline=6" alt="languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,fastapi,docker&perline=7" alt="ml"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,nodejs,nestjs,prisma&perline=9" alt="web"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode,notion&perline=7" alt="tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00FFA3"/>
+<img src="https://img.shields.io/badge/LangGraph-FF4DC4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-00C2FF?style=for-the-badge&logoColor=black"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yogeshsikhwal77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshsikhwal77&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" alt="top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=yogeshsikhwal77&theme=radical&hide_border=true&background=0D1117&border_radius=10" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshsikhwal77&bg_color=0d1117&color=00FFA3&line=FF4DC4&point=ffffff&area=true&area_color=00C2FF&hide_border=true&radius=10" alt="activity graph" width="95%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogeshsikhwal77/yogeshsikhwal77/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogeshsikhwal77/yogeshsikhwal77/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/yogeshsikhwal77/yogeshsikhwal77/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🧭 Learning Roadmap
+
+```mermaid
+flowchart LR
+    A[🐍 Python] --> B[📊 Machine Learning]
+    B --> C[🧠 Deep Learning]
+    C --> D[⚡ GenAI + LangChain]
+    D --> E[🕸️ LangGraph]
+    E --> F[🤖 Multi-Agent Systems]
+    style A fill:#3776AB,stroke:#fff,color:#fff
+    style B fill:#F7931E,stroke:#fff,color:#000
+    style C fill:#EE4C2C,stroke:#fff,color:#fff
+    style D fill:#00FFA3,stroke:#fff,color:#000
+    style E fill:#FF4DC4,stroke:#fff,color:#fff
+    style F fill:#00C2FF,stroke:#fff,color:#000
+```
+
+<div align="center">
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false" alt="quote"/>
+
+<br/>
+
+*Let's build something cool together.* 🤝
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
 
 </div>
